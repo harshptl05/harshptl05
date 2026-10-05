@@ -103,7 +103,7 @@ DOME — Electrical Diagrams to Structured Data
 
 13 agents · 95% equipment-level accuracy · 4 hours → under 5 minutes
 
-Industry-sponsored senior capstone with Glenart Group. Co-developed a pipeline that extracts equipment data from data-center electrical one-line diagrams into structured JSON.
+Industry-sponsored with Glenart Group. Co-developed a pipeline that extracts equipment data from data-center electrical one-line diagrams into structured JSON.
 
 <details open>
 <summary><strong>Explore the system and my contributions</strong></summary>
