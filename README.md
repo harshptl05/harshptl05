@@ -290,7 +290,6 @@ DOME with Glenart Group; 95% equipment-level extraction accuracy
 
 B.S. Computer Science · UT Dallas
 
-August 2023 – May 2027 · GPA: 3.63/4.0
 
 Relevant coursework
 
